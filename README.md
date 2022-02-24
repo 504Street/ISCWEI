@@ -1,2 +1,2 @@
 # ISCWEI
-Integrated Stock, Commodity  and Works Exchange International
+Integrated Stocks, Commodities  and Works Exchange International
