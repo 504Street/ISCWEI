@@ -1,0 +1,109 @@
+ISCWEI Business Startup
+
+//-- Suppliers and Manufacturers
+
+1. Canvas Products from suppliers and manufacturers
+2. Buy the best product or services with the lowest price from suppliers and manufacturers
+
+
+
+
+
+//-- Retailer Store
+
+1. Store the bought products or services from the suppliers and manufacturers
+2. Give the sum of expense list
+       Rice Product - 25 kg - P800.00
+       Travel Expenses
+           Tricycle gas fuel - P30.00
+           Jeepney gas fuel - P30.00
+       Office Materials
+           Bond Paper Long 1 Rim - P300.00
+           Bond Paper Letter 1 Rim - P300.00
+           Ballpen Set (5 pcs) - P100.00
+           Pencil Set (3 pcs) - P100.00
+           Ruler - P100.00
+           Scissor - P100.00
+           Cutter - P300.00
+           Folders (30 pcs) - P500.00
+           Staplers - P300.00
+           Computer set with high specs - P60,000.00
+           Internet Provider - P10,000.00
+           File Cabinet - P10,000.00
+
+
+
+
+
+
+//-- Buyer
+
+1. Buy Product with additional charge of P16.00
+
+
+
+
+
+//-- Retailer Store Payroll
+
+1. Compute Expenses
+2. Compute Retailing Store's Gross Income
+3. Give Commission to the employees by 25%
+4. Compute Retailing Store Net Income
+5. Compute buyer's Shared Income
+
+
+
+
+
+
+
+
+
+
++------------------+--------------------+------------------------------------------------+--------------------+-------------------------+------------------------------------------------+---------------+---------------------------+------------------+
+| Transaction No. ID | Buyer Profile ID | Date: YYYY-MM-DD-hh-mm-ss-ms, Days of the week | Transaction No. ID | Commissioner Profile ID | Date: YYYY-MM-DD-hh-mm-ss-ms, Days of the week | Shared Income | No. of Completed Networks | No. Max Networks |
+        395                 100                    2022-02-24-9-17-50-100, Tuesday                  15                      2                         2022-02-05-17-5-15-10, Tuesday             2                         15                25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
